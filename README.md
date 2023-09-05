@@ -6,7 +6,7 @@
 ## [USER STORIES](https://trello.com/invite/b/ZgujB0rt/ATTIa8972e39661b0728f3798e2cd40af6155C9CA875/robotasker-5000)
 <img width="1173" alt="Screen Shot 2023-09-05 at 2 31 37 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/3858e5d0-3bfc-4dec-affe-990e70fb8f58">
 
-## 10 Prioritized Requirements**
+## 10 Prioritized Requirements
 1.  Implement quality control measures to ensure that each salad adheres to established standards for taste, appearance, and portion size.
 2.  As a health-conscious customer, I expect the Chef Salad to use fresh, organic, and locally sourced ingredients to ensure that the salads are nutritious and packed with flavor.
 3.  The RT5000 app must incorporate a "Helpdesk" feature that allows users to access customer support, submit support tickets, and request assistance for troubleshooting or technical problems related to their robot.
