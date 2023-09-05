@@ -3,7 +3,8 @@
 
 <img width="670" alt="Screen Shot 2023-09-05 at 2 39 37 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/f2f7a915-0a78-46f6-824a-161385254da3">
 
-## "[USER STORIES](https://trello.com/b/ZgujB0rt/robotasker-5000)"
+## "[USER STORIES](http<img width="1173" alt="Screen Shot 2023-09-05 at 2 31 37 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/0b02ef84-2863-46a0-b8a9-06e2f65cb5fd">
+s://trello.com/b/ZgujB0rt/robotasker-5000)"
 
 ## 10 Prioritized Requirements**
 1.  Implement quality control measures to ensure that each salad adheres to established standards for taste, appearance, and portion size.
