@@ -1,2 +1,11 @@
-# RT5000
-This Repo is a place to place our Designing a Robot App – Group Final
+# 
+HOLLY 10 interview questions per team member "LINK"
+PHOTO OF INTERVIEW QUESTIONS
+
+AHMED - USER STORIES "LINK"
+PHOTO
+
+10 REQUIRMENTS 
+1. 
+
+3 WIREFRAME 
