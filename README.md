@@ -18,4 +18,11 @@ s://trello.com/b/ZgujB0rt/robotasker-5000)"
 9.  Obstacle Avoidance: The robot should be equipped with sensors and algorithms to detect and avoid obstacles while performing tasks, ensuring safety and preventing collisions.
 10.  The RT5000 app must include an "Emergency Shutdown" feature that allows users to immediately halt all of the robot's tasks in case of unexpected situations or emergencies, ensuring user safety.
 
-## 3 WIREFRAME 
+## Each Person's WIREFRAME 
+**"[Khalid's Wireframe](https://lucid.app/lucidspark/450c2496-a351-47ce-baec-c5f2a544ef04/edit?viewport_loc=1974%2C-178%2C2650%2C1309%2C0_0&invitationId=inv_357df536-44d4-4320-9e10-c8fd626bac36)"** 
+<img width="258" alt="Screen Shot 2023-09-05 at 2 46 47 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/ea81c54d-be0f-4ef0-924a-a55d45bddbc8">
+
+**"[Holly's Wireframe](https://lucid.app/lucidspark/98e2a6cc-9543-483d-bd18-bf74f8d2fdd6/edit?invitationId=inv_01385aa5-e82b-4c54-87ae-db437e43280c)**
+<img width="258" alt="Screen Shot 2023-09-05 at 2 46 47 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/6388f354-f5cf-4290-a4ec-a0f3d9b21b12">
+
+
