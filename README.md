@@ -1,6 +1,7 @@
-# 
-HOLLY 10 interview questions per team member "LINK"
-PHOTO OF INTERVIEW QUESTIONS
+# 10 interview questions per team member:
+## https://lucid.app/lucidspark/1e7c063b-4d3e-4ea1-9d51-8d4b20af0456/edit?viewport_loc=-3873%2C-212%2C5617%2C2744%2C0_0&invitationId=inv_43741744-9035-4bd1-b530-622e74e5b8a5
+
+<img width="1365" alt="interview questions" src="https://github.com/L1DLID/RT5000/assets/142946140/64149aa4-f2dd-4cf7-8f1e-ab7e0ed67349">
 
 AHMED USER STORIES "LINK"
 ![User Stories](https://github.com/L1DLID/RT5000/assets/143013239/7d763dc8-9396-4c9f-b10d-11677827b664)
