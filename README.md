@@ -3,8 +3,10 @@
 
 <img width="1365" alt="interview questions" src="https://github.com/L1DLID/RT5000/assets/142946140/64149aa4-f2dd-4cf7-8f1e-ab7e0ed67349">
 
-AHMED USER STORIES "LINK"
+AHMED - USER STORIES "[LINK](https://trello.com/b/ZgujB0rt/robotasker-5000)"
 ![User Stories](https://github.com/L1DLID/RT5000/assets/143013239/7d763dc8-9396-4c9f-b10d-11677827b664)
+![image](https://github.com/L1DLID/RT5000/assets/142946184/8e32dbe9-3dce-42f2-bf55-3502e0893cd7)
+![image](https://github.com/L1DLID/RT5000/assets/142946184/d68e3869-5f04-47ef-b625-2884c8e22821)# 
 
 
 **10 Prioritized Requirements**
@@ -18,6 +20,5 @@ AHMED USER STORIES "LINK"
 8.  Accommodate dietary restrictions and preferences by offering customizable salad options, including vegan, vegetarian, gluten-free, and protein-rich choices.
 9.  Obstacle Avoidance: The robot should be equipped with sensors and algorithms to detect and avoid obstacles while performing tasks, ensuring safety and preventing collisions.
 10.  The RT5000 app must include an "Emergency Shutdown" feature that allows users to immediately halt all of the robot's tasks in case of unexpected situations or emergencies, ensuring user safety.
-
 
 3 WIREFRAME 
