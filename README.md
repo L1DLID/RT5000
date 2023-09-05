@@ -1,9 +1,9 @@
 # 
-## "[10 interview questions per team member:](https://lucid.app/lucidspark/1e7c063b-4d3e-4ea1-9d51-8d4b20af0456/edit?viewport_loc=-3873%2C-212%2C5617%2C2744%2C0_0&invitationId=inv_43741744-9035-4bd1-b530-622e74e5b8a5)"
+## [10 interview questions per team member:](https://lucid.app/lucidspark/1e7c063b-4d3e-4ea1-9d51-8d4b20af0456/edit?viewport_loc=-3873%2C-212%2C5617%2C2744%2C0_0&invitationId=inv_43741744-9035-4bd1-b530-622e74e5b8a5)
 
 <img width="670" alt="Screen Shot 2023-09-05 at 2 39 37 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/f2f7a915-0a78-46f6-824a-161385254da3">
 
-## "[USER STORIES](https://trello.com/invite/b/ZgujB0rt/ATTIa8972e39661b0728f3798e2cd40af6155C9CA875/robotasker-5000)"
+## [USER STORIES](https://trello.com/invite/b/ZgujB0rt/ATTIa8972e39661b0728f3798e2cd40af6155C9CA875/robotasker-5000)
 <img width="1173" alt="Screen Shot 2023-09-05 at 2 31 37 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/3858e5d0-3bfc-4dec-affe-990e70fb8f58">
 
 ## 10 Prioritized Requirements**
@@ -19,10 +19,10 @@
 10.  The RT5000 app must include an "Emergency Shutdown" feature that allows users to immediately halt all of the robot's tasks in case of unexpected situations or emergencies, ensuring user safety.
 
 ## Each Person's WIREFRAME 
-**"[Khalid's Wireframe](https://lucid.app/lucidspark/450c2496-a351-47ce-baec-c5f2a544ef04/edit?viewport_loc=1974%2C-178%2C2650%2C1309%2C0_0&invitationId=inv_357df536-44d4-4320-9e10-c8fd626bac36)"** 
+**[Khalid's Wireframe](https://lucid.app/lucidspark/450c2496-a351-47ce-baec-c5f2a544ef04/edit?viewport_loc=1974%2C-178%2C2650%2C1309%2C0_0&invitationId=inv_357df536-44d4-4320-9e10-c8fd626bac36)** 
 <img width="258" alt="Screen Shot 2023-09-05 at 2 46 47 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/ea81c54d-be0f-4ef0-924a-a55d45bddbc8">
 
-**"[Holly's Wireframe](https://lucid.app/lucidspark/98e2a6cc-9543-483d-bd18-bf74f8d2fdd6/edit?invitationId=inv_01385aa5-e82b-4c54-87ae-db437e43280c)**
+**[Holly's Wireframe](https://lucid.app/lucidspark/98e2a6cc-9543-483d-bd18-bf74f8d2fdd6/edit?invitationId=inv_01385aa5-e82b-4c54-87ae-db437e43280c)**
 <img width="258" alt="Screen Shot 2023-09-05 at 2 46 47 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/6388f354-f5cf-4290-a4ec-a0f3d9b21b12">
 
 
