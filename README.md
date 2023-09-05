@@ -2,8 +2,9 @@
 HOLLY 10 interview questions per team member "LINK"
 PHOTO OF INTERVIEW QUESTIONS
 
-AHMED - USER STORIES "LINK"
-PHOTO
+AHMED USER STORIES "LINK"
+![User Stories](https://github.com/L1DLID/RT5000/assets/143013239/7d763dc8-9396-4c9f-b10d-11677827b664)
+
 
 **10 Prioritized Requirements**
 1.  Implement quality control measures to ensure that each salad adheres to established standards for taste, appearance, and portion size.
