@@ -23,7 +23,7 @@
 <img width="258" alt="Screen Shot 2023-09-05 at 2 46 47 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/ea81c54d-be0f-4ef0-924a-a55d45bddbc8">
 
 **[Holly's Wireframe](https://lucid.app/lucidspark/98e2a6cc-9543-483d-bd18-bf74f8d2fdd6/edit?invitationId=inv_01385aa5-e82b-4c54-87ae-db437e43280c)**
-<img width="258" alt="Screen Shot 2023-09-05 at 2 46 47 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/6388f354-f5cf-4290-a4ec-a0f3d9b21b12">
+<img width="416" alt="Holly Wireframe" src="https://github.com/L1DLID/RT5000/assets/143013239/b95c5ebe-8fb8-4add-ae51-5d85fe4b8526">
 
 **[Ahmed's Wireframe](https://lucid.app/lucidspark/0bd6e130-bd6e-48d1-87e3-154b33283874/edit?invitationId=inv_503863de-5881-420a-9dde-b31b3b50fa77)**
 <img width="313" alt="Screen Shot 2023-09-05 at 3 14 39 PM" src="https://github.com/L1DLID/RT5000/assets/143013239/54d57fa0-4b73-44c4-9a82-690633b1b114">
